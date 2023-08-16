@@ -53,6 +53,7 @@ border-style: solid;
 border-radius: 10px;
 border-color: #0b5351;
 font-family: 'Handjet', cursive;
+color: white;
 }
 
 .name {
@@ -60,6 +61,7 @@ border-style: solid;
 border-radius: 10px;
 border-color: #0b5351;
 font-family: 'Handjet', cursive;
+color: white;
 }
 
 .email {
@@ -67,6 +69,7 @@ border-style: solid;
 border-radius: 10px;
 border-color: #0b5351;
 font-family: 'Handjet', cursive;
+color: white;
 }
 
 .ptn {
@@ -74,4 +77,5 @@ border-style: solid;
 border-radius: 10px;
 border-color: #0b5351;
 font-family: 'Handjet', cursive;
+color: white;
 }

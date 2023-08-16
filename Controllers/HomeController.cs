@@ -13,6 +13,14 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    public IActionResult Contact()
+    {
+        ViewBag.Name = "Sean Nance";
+        ViewBag.Email = "spnance1985@gmail.com";
+        ViewBag.PhoneNumber = "360-910-4719";
+        return View();
+    }
+
     public IActionResult Index()
     {
         return View();
